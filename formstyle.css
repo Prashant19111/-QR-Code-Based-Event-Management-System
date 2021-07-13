@@ -1,0 +1,50 @@
+body {
+    /* font-family: 'Baloo Bhai', cursive; */
+    color: #514747;
+    margin: 0px;
+    padding: 0px;
+    background: rgb(243, 235, 235);
+}
+.formcontainer {
+    border: 2px solid white;
+    background: black;
+    margin: 51px 80px;
+    padding: 75px;
+    width: 49%;
+    border-radius: 28px;
+}
+
+.formform-group input {
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width: 508px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 11px auto;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.formcontainer h1 {
+    text-align: center;
+}
+
+.formcontainer button {
+    display: block;
+    width: 508px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    margin: 20px auto;
+}
+/* .qr-field{
+
+    border-radius: 10px;
+    width: 24em;
+    height:26em;
+    padding: .5em 2em 2em 2em;
+    margin:-35em 8em 5em;
+    float:right;
+} */
